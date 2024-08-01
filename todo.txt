@@ -1,0 +1,6 @@
+[x] Running
+[x] Yoga
+[x] Make food
+[x] Walk the dog
+[x] Check Emails
+[x] Watch YouTube
