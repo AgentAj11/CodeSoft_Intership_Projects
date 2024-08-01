@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Gaurav Tomar",
+        "phone": "8273436333",
+        "email": "codeJujutsu@gmail.com",
+        "address": "Dehradun Vikasnagar"
+    },
+    {
+        "name": "Radhe",
+        "phone": "653257788",
+        "email": "Radhe12@hotmail.com",
+        "address": "Delhi"
+    },
+    {
+        "name": "Pradeep",
+        "phone": "876543219",
+        "email": "PDeep@outlook.com",
+        "address": "Dehradun"
+    },
+    {
+        "name": "Gaurav",
+        "phone": "987654312",
+        "email": "G22@outlook.com",
+        "address": "Dehradun"
+    }
+]
